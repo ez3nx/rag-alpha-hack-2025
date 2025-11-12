@@ -153,4 +153,5 @@ cython_debug/
 
 #
 .pkl
-/vectordb/
+.sqlite3
+vectordb/
