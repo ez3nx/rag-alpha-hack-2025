@@ -152,6 +152,6 @@ cython_debug/
 *.csv
 
 #
-.pkl
+*.pkl
 .sqlite3
 vectordb/
